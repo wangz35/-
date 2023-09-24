@@ -1,2 +1,2 @@
-# -
-自用
+# HSR:
+ Honkai:Star Rail
