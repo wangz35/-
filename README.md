@@ -12,7 +12,7 @@
 
 Commands:
 
-- [Honkai: Star Rail character showcase](##Help preview)
+- [Honkai: Star Rail character showcase](##Help_preview)
 - [Honkai: Star Rail server maintenance alarm](/maintenance_reminder)
 - [Suggestion](#suggestion)
 
